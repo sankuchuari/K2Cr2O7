@@ -15,6 +15,56 @@ K2Cr2O7 是一个专注于 **流畅体验** 与 **功能性拓展** 的 Minecraf
 
 ---
 
+## 🧭 入门指南与任务路线
+
+### 🔰 第一步：开局与探索
+
+* 创建新世界，建议开启【超多生物群系】与【Lios Overhauled Villages】带来的新世界体验。
+* 初始目标：找到村庄、建立基地，采集基础资源（木头、石头、铁等）。
+* 推荐探索模组：
+
+  * [Xaero 小地图](https://www.mcmod.cn/class/1701.html) / [Xaero 世界地图](https://www.mcmod.cn/class/1483.html)
+  * [农夫乐事](https://www.mcmod.cn/class/2820.html)：尝试耕种与自动化农业！
+
+### ⚙️ 第二步：机械动力与自动化
+
+* 初始机械目标：使用 [机械动力（Create）](https://www.mcmod.cn/class/2021.html) 实现基础发电与传动。
+* 随后可引入以下进阶：
+
+  * [推进工程](https://www.mcmod.cn/class/19600.html)：添加火车与运输系统
+  * [中央厨房](https://www.mcmod.cn/class/9151.html)：与农业结合的自动烹饪系统
+  * [驱动工艺](https://www.mcmod.cn/class/15499.html)：全新传动机制支持
+  * [CC: Tweaked](https://www.mcmod.cn/class/1681.html)：Lua 编程控制流程
+
+### 🔬 第三步：生态探索与副本挑战
+
+* 目标副本：挑战 [暮色森林](https://www.mcmod.cn/class/61.html)
+
+  * 击败那加、暮色巫妖、九头蛇等 BOSS
+  * 收集珍稀材料用于后续自动化与展示
+* 同时可使用 [帕秋莉手册](https://www.mcmod.cn/class/1388.html) 记录教程与发展路径
+
+### 🧰 第四步：功能强化与整理
+
+* 推荐搭配：
+
+  * [精妙背包](https://www.mcmod.cn/class/3739.html) / [精妙存储](https://www.mcmod.cn/class/6711.html)
+  * [一键整理Next](https://www.mcmod.cn/class/4104.html)
+  * [JEI + 合成辅助](https://www.mcmod.cn/class/459.html) 实现查配方无压力
+
+### 🧑‍🤝‍🧑 第五步：多人协作与服务器玩法
+
+* 使用 [FTB 区块](https://www.mcmod.cn/class/3201.html)、[FTB 团队](https://www.mcmod.cn/class/3179.html) 管理领地与队伍
+* [FTB Essentials](https://www.mcmod.cn/class/3202.html) 提供基础命令如 /home /spawn 等
+
+📚 **整合教程合集推荐**：
+
+* [MC百科 Create 教程集合](https://www.mcmod.cn/post/326.html)
+* [帕秋莉整合文档教程示例](https://www.mcmod.cn/post/418.html)
+* [暮色森林 Boss 进度指南](https://www.mcmod.cn/post/273.html)
+
+---
+
 ## 🛠️ 模组列表（按功能分类）
 
 ### ✅ 优化类
