@@ -162,6 +162,6 @@ K2Cr2O7 是一个专注于 **流畅体验** 与 **功能性拓展** 的 Minecraf
 
 ---
 
-**项目地址**：[GitHub - K2Cr2O7 整合包](https://github.com/你的用户名/K2Cr2O7)
+**项目地址**：[GitHub - K2Cr2O7 整合包](https://github.com/sankuchuari/K2Cr2O7)
 
 > Enjoy the creativity of chromium and potassium!
