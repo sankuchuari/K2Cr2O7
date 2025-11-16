@@ -65,10 +65,14 @@ K2Cr2O7 是一个专注于 **流畅体验** 与 **功能性拓展** 的 Minecraf
 
 ---
 
+
 ## 🛠️ 模组列表（按功能分类）
 
-### ✅ 优化类
+### 🏛 建筑 / 装饰
+* [MrCrayfish 的家具：重制](https://www.mcmod.cn/class/15668.html)
+* [锦致装饰](https://www.mcmod.cn/class/3555.html)
 
+### ⚡ 优化类
 * [工作台性能优化](https://www.mcmod.cn/class/1486.html)
 * [Fast IP Ping](https://www.mcmod.cn/class/11895.html)
 * [移除重载界面](https://www.mcmod.cn/class/9908.html)
@@ -85,24 +89,31 @@ K2Cr2O7 是一个专注于 **流畅体验** 与 **功能性拓展** 的 Minecraf
 * [Chloride (Embeddium++)](https://www.mcmod.cn/class/12822.html)
 * [现代化 UI](https://www.mcmod.cn/class/2454.html)
 
-### 🌿 群系与世界生成
-
+### 🌍 群系 / 世界生成
+* [太空探索](https://www.mcmod.cn/class/7395.html)
+* [太空探索：恒星](https://www.mcmod.cn/class/20327.html)
 * [暮色森林](https://www.mcmod.cn/class/61.html)
 * [超多生物群系](https://www.mcmod.cn/class/108.html)
 * [农夫乐事](https://www.mcmod.cn/class/2820.html)
 * [Lios Overhauled Villages](https://www.mcmod.cn/class/13133.html)
 
-### 🚀 功能拓展
-
+### 🔧 功能类
+* [烟花苦力怕](https://www.mcmod.cn/class/5298.html)
+* [MrCrayfish 的枪：非官方版](https://www.mcmod.cn/class/12928.html)
+* [Apex 枪械工艺](https://www.mcmod.cn/class/7157.html)
+* [搬运](https://www.mcmod.cn/class/1081.html)
+* [GuideME](https://www.mcmod.cn/class/18414.html)
+* [在线相框显示2](https://www.mcmod.cn/class/4792.html)
 * [樱花签](https://www.mcmod.cn/class/17460.html)
 * [Xaero的小地图](https://www.mcmod.cn/class/1701.html)
 * [Xaero的世界地图](https://www.mcmod.cn/class/1483.html)
 * [InvTweaks Emu for IPN](https://www.mcmod.cn/class/9182.html)
-* [\[IPN\]一键背包整理Next](https://www.mcmod.cn/class/4104.html)
+* [一键背包整理Next](https://www.mcmod.cn/class/4104.html)
 * [Wildfire's Female Gender Mod](https://www.mcmod.cn/class/3997.html)
 * [帕秋莉手册](https://www.mcmod.cn/class/1388.html)
 * [精妙背包](https://www.mcmod.cn/class/3739.html)
 * [精妙存储](https://www.mcmod.cn/class/6711.html)
+* [简单飞机](https://www.mcmod.cn/class/2681.html)
 * [原版烹饪书](https://www.mcmod.cn/class/5234.html)
 * [合成辅助](https://www.mcmod.cn/class/1501.html)
 * [JEI物品管理器](https://www.mcmod.cn/class/459.html)
@@ -110,21 +121,45 @@ K2Cr2O7 是一个专注于 **流畅体验** 与 **功能性拓展** 的 Minecraf
 * [FTB 团队](https://www.mcmod.cn/class/3179.html)
 * [FTB 区块](https://www.mcmod.cn/class/3201.html)
 
-### ⚙️ 机械系统
-
+### ⚙️ 机械 / 工业类
 * [瓦尔基里天空](https://www.mcmod.cn/class/1528.html)
+* [瓦尔基里：兼容](https://www.mcmod.cn/class/15006.html)
 * [CC: Tweaked](https://www.mcmod.cn/class/1681.html)
+* [CC：Vs](https://www.mcmod.cn/class/13226.html)
+* [CC：C Bridge](https://www.mcmod.cn/class/8487.html)
+* [Clockwork](https://www.mcmod.cn/class/13550.html)
+* [ClockworkAdditions](https://www.mcmod.cn/class/16698.html)
 * [机械动力](https://www.mcmod.cn/class/2021.html)
-* [推进工程](https://www.mcmod.cn/class/19600.html)
-* [工业长路](https://www.mcmod.cn/class/8204.html)
-* [物品附加](https://www.mcmod.cn/class/3779.html)
-* [Fuel & Water Info](https://www.mcmod.cn/class/17189.html)
+* [机械动力：装饰](https://www.mcmod.cn/class/5189.html)
+* [机械动力：火炮](https://www.mcmod.cn/class/7178.html)
+* [机械动力：多彩边框](https://www.mcmod.cn/class/15498.html)
+* [机械动力：创意传动](https://www.mcmod.cn/class/13105.html)
+* [机械动力：更多齿轮](https://www.mcmod.cn/class/8484.html)
+* [机械动力：汽鸣铁道](https://www.mcmod.cn/class/8230.html)
+* [机械动力：推进工程](https://www.mcmod.cn/class/19600.html)
+* [机械动力：电气时代](https://www.mcmod.cn/class/11918.html)
+* [机械动力：物品附加](https://www.mcmod.cn/class/3779.html)
+* [机械动力：燃料助推](https://www.mcmod.cn/class/16247.html)
+* [机械动力：铁路导航](https://www.mcmod.cn/class/14600.html)
+* [机械动力：太空探索](https://www.mcmod.cn/class/13760.html)
+* [Create: Fuel & Water Information](https://www.mcmod.cn/class/17189.html)
+* [Create Crafts & Additions](https://www.mcmod.cn/class/3437.html)
 * [驱动工艺](https://www.mcmod.cn/class/15499.html)
-* [柴油动力](https://www.mcmod.cn/class/10727.html)
-* [中央厨房](https://www.mcmod.cn/class/9151.html)
+* [机械动力：柴油动力](https://www.mcmod.cn/class/10727.html)
+* [机械动力：中央厨房](https://www.mcmod.cn/class/9151.html)
+* [通用机械](https://www.mcmod.cn/class/187.html)
+* [通用机械：发电机](https://www.mcmod.cn/class/1323.html)
+* [通用机械：太空探索](https://www.mcmod.cn/class/15578.html)
+* [应用能源2](https://www.mcmod.cn/class/260.html)
+* [沉浸工程](https://www.mcmod.cn/class/463.html)
+* [沉浸式传送门](https://www.mcmod.cn/class/2410.html)
 
-### 🔧 前置核心
-
+### 🧩 前置依赖
+* [ritchiesprojectilelib](https://www.mcmod.cn/class/20632.html)
+* [moonlight](https://www.mcmod.cn/class/4159.html)
+* [resourcefulconfig](https://www.mcmod.cn/class/8300.html)
+* [resourcefullib](https://www.mcmod.cn/class/7647.html)
+* [CreativeCore](https://www.mcmod.cn/class/1283.html)
 * [Framework](https://www.mcmod.cn/class/5307.html)
 * [TerraBlender](https://www.mcmod.cn/class/5489.html)
 * [Placebo](https://www.mcmod.cn/class/1023.html)
@@ -136,8 +171,8 @@ K2Cr2O7 是一个专注于 **流畅体验** 与 **功能性拓展** 的 Minecraf
 * [libIPN](https://www.mcmod.cn/class/7713.html)
 * [精妙核心](https://www.mcmod.cn/class/6324.html)
 * [Balm](https://www.mcmod.cn/class/4485.html)
-
----
+* [Botarium](https://www.mcmod.cn/class/8235.html)
+"""
 
 ## 🚛 安装方法
 
