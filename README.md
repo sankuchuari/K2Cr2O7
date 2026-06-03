@@ -61,8 +61,6 @@ K2Cr2O7 是一个专注于 **流畅体验** 与 **多维功能拓展** 的 Minec
 
 ### ⚡ 优化类
 
-* [宽带优化](https://www.google.com/search?q=https://www.mcmod.cn/class/27110.html)
-* [铼 (Rhenium)](https://www.google.com/search?q=https://www.mcmod.cn/class/25824.html)
 * [超分辨率](https://www.mcmod.cn/class/17888.html)
 * [Krypton FNP](https://www.google.com/search?q=https://www.mcmod.cn/class/21543.html)
 * [FastBoot](https://www.google.com/search?q=https://www.mcmod.cn/class/15103.html)
@@ -103,7 +101,6 @@ K2Cr2O7 是一个专注于 **流畅体验** 与 **多维功能拓展** 的 Minec
 
 ### 🔧 功能类
 
-* [通用拼音搜索](https://www.mcmod.cn/class/840.html)
 * [GuideMe / GuideME](https://www.google.com/search?q=https://www.mcmod.cn/class/18414.html)
 * [Packet Fixer](https://www.mcmod.cn/class/12625.html)
 * [多态合成](https://www.mcmod.cn/class/2895.html)
@@ -194,14 +191,8 @@ K2Cr2O7 是一个专注于 **流畅体验** 与 **多维功能拓展** 的 Minec
 * [通用机械：太空探索](https://www.google.com/search?q=https://www.mcmod.cn/class/15578.html)
 * [通用机械：工具](https://www.mcmod.cn/class/1615.html)
 * [通用机械：扩展](https://www.mcmod.cn/class/14916.html)
-* [通用机械：更多机器](https://www.google.com/search?q=https://www.mcmod.cn/class/20094.html)
-* [通用机械：中央厨房](https://www.google.com/search?q=https://www.mcmod.cn/class/24437.html)
 * [通用机械：无需富集](https://www.mcmod.cn/class/26313.html)
 * [通用机械：配置卡扩展](https://www.google.com/search?q=https://www.mcmod.cn/class/26305.html)
-* [通用机械：进化](https://www.mcmod.cn/class/19453.html)
-* [通用机械：增强](https://www.mcmod.cn/class/25816.html)
-* [通用机械：增强核心](https://www.google.com/search?q=https://www.mcmod.cn/class/25817.html)
-* [Mekanism Turrets & Fences](https://www.google.com/search?q=https://www.mcmod.cn/class/15247.html)
 
 #### 💾 应用能源 2 (AE2) 生态
 
